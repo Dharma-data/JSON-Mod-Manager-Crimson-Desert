@@ -24,7 +24,7 @@ It allows you to easily install, enable, disable, update, and organize mods usin
 
 ## 📥 Download
 
-📥 [`JSON-Manager.exe`](https://github.com/Dharma-data/JSON-Mod-Manager-Crimson-Desert/releases/download/Game-Addons/JSON-Manager.exe)  
+📥 [`JSON-Manager.zip`](https://github.com/Dharma-data/JSON-Mod-Manager-Crimson-Desert/releases/download/Game-Addons/JSON-Manager.zip)  
 ---
 
 ## How It Works
